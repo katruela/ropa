@@ -493,5 +493,21 @@ http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/24127
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/23965
 #EXTINF:0 tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/newsgroup-logos/msnbc/logo-vertical/default-black-498x404.png" group-title="Varios",246-MSNBC
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/23637
-EXTINF:0 tvg-logo="" group-title="Varios",255-FinRoku
+#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-del-playboy-tv-en-un-formato-blanco-ai-aviable-vector-fondo-147814758.jpg" group-title="Varios",247-Playboy TV
+http://200.125.170.120:8000/play/a02c
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Varios",248-Venus
+http://177.10.184.193:8000/play/a0ds/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Varios",249-XXX
+http://tv14s.xyz:8080/15564292/15564292/159959
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Varios",250-XXX
+http://tv14s.xyz:8080/15564292/15564292/159963
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Varios",251-XXX
+http://tv14s.xyz:8080/15564292/15564292/159975
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Varios",252-XXX
+http://tv14s.xyz:8080/15564292/15564292/160083
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Varios",253-XXX
+http://tv14s.xyz:8080/15564292/15564292/215555
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Varios",254-XXX
+http://tv14s.xyz:8080/15564292/15564292/215698
+#EXTINF:0 tvg-logo="" group-title="Varios",255-FinRoku
 https://FinRoku
