@@ -356,6 +356,8 @@ http://45.238.54.67:8000/play/a00q/index.m3u8
 http://200.115.96.66:4000/play/a02w/index.m3u8
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/ar_space_m.png" group-title="Varios",163-Space
 http://181.119.111.25:4000/play/a0ez/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Space_Canal_Logo_2024.png" group-title="Varios",57-Space
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/51.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" group-title="Varios",164-Star Channel
 http://181.78.20.119:58002/play/a008/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" group-title="Varios",165-Star Channel HD
