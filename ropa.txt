@@ -122,6 +122,18 @@ http://45.238.54.67:8000/play/a017/index.m3u8
 http://45.238.54.67:8000/play/a01p/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png" group-title="Varios",59-Fox Sports 3 HD
 http://138.121.114.91:8000/play/a06y/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Fox_Deportes_logo.svg" group-title="Varios",53-Fox Deportes
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/376.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Fox_Sports_logo_2012.svg" group-title="Varios",54-Fox Sports ARG 1
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/459.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Fox_Sports_logo_2012.svg" group-title="Varios",55-Fox Sports ARG 2
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/10532.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Fox_Sports_logo_2012.svg" group-title="Varios",56-Fox Sports ARG 3
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/458.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/ESPN_Wordmark.svg" group-title="Varios",47-ESPN ARG 1
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/107.m3u8
  
